@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# local install / build scratch
+.npm-cache/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# local editor files
+.vscode/
+.idea/
+
+# internal development report is kept locally, not published
+/REPORT.md

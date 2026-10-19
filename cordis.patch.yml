@@ -1,0 +1,3 @@
+- insert:
+    - id: input-uplift
+      name: '@local/dsh-input-uplift'
